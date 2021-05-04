@@ -1,0 +1,1 @@
+So this is a small backdoor I have been working on that is something of a work in progress. It essentially disguises itself as a program that prints out ascii art from files, but also creates a powershell script and a scheduled task for that script, and that script creates a backdoor that also has a scheduled task. It is kind of dumb, but I wanted something to work on, so sue me.
